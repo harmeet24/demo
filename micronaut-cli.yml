@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.harmeet
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, hamcrest, http-client, jackson-databind, java, java-application, junit, logback, micronaut-build, mockito, netty-server, readme, shade, test-resources, yaml]
